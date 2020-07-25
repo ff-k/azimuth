@@ -1,5 +1,6 @@
 # azimuth
 
+![Sponza](sample/sponza_path.png)
 ![Path Tracing with Importance Sampling](sample/cornellbox_path_importance_100.png)
 ![Skybox / Environment Mapping](sample/head_env_light.png)
 ![Motion Blur and Dielectric Material](sample/dragon_dynamic.png)
